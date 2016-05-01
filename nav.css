@@ -1,0 +1,85 @@
+.st0{stroke:#A33E7C;stroke-miterlimit:10;}
+	.st1{fill:#C2C2C2;}
+
+
+	body{
+		background-color: black;
+	}
+
+	.st4{
+		stroke:#A33E7C;stroke-miterlimit:10;
+		fill=black;
+	}
+
+	.st4:hover{
+		opacity: 0;
+	}
+
+	#Layer_1{
+		transition: all 2s ease-out;
+	}
+
+/*	#Layer_1:hover{
+		opacity:.5;
+	}*/
+
+	#Layer_1:active{
+		opacity:0;
+	}
+
+	#allnav{
+		position:relative;
+		z-index:5;
+	}
+	#allnavcolor{
+		position:relative;
+		margin-top: -21.9%;
+	}
+	#logo{
+		fill:black;
+
+	}
+	#logo:hover{
+		opacity: 1;
+		fill:#575757;
+	}
+
+	#design{
+		fill:black;
+
+	}
+	#design:hover{
+		opacity: 1;
+		fill:#575757;
+	}
+
+	#fineart{
+		fill:black;
+
+	}
+	#fineart:hover{
+		opacity: 1;
+		fill:#575757;
+	}
+
+	#about{
+		fill:black;
+
+	}
+	#about:hover{
+		opacity: 1;
+		fill:#575757;
+	}
+
+	#contact{
+		fill:black;
+
+	}
+	#contact:hover{
+		opacity: 1;
+		fill:#575757;
+	}
+
+	#canvas{
+		position:fixed;
+	}
